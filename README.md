@@ -344,75 +344,75 @@ Die Zukunft des Darknets wird maßgeblich davon abhängen, wie Gesellschaften di
 
 ## Einzelnachweise
 
-<a id="1">[1]</a> Biddle, P., England, P., Peinado, M., & Willman, B. (2002). "The Darknet and the Future of Content Distribution". ACM Workshop on Digital Rights Management.
+<a id="1">[1]</a> Biddle, P., England, P., Peinado, M., & Willman, B. (2002). The Darknet and the future of content distribution. ACM Workshop on Digital Rights Management.
 
-<a id="2">[2]</a>Bundesamt für Sicherheit in der Informationstechnik. “Bundesamt Für Sicherheit in Der Informationstechnik.” Bundesamt Für Sicherheit in Der Informationstechnik, BSIWEB, 3 Apr. 2025, www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Darknet-und-Deep-Web/darknet-und-deep-web_node.html. Accessed 17 July 2025.
+<a id="2">[2]</a> Bundesamt für Sicherheit in der Informationstechnik. (2025, April 3). Darknet und Deep Web. https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Darknet-und-Deep-Web/darknet-und-deep-web_node.html (Accessed: July 18, 2025)
 
-<a id="3">[3]</a> Dingledine, R., Mathewson, N., & Syverson, P. (2004). "Tor: The Second-Generation Onion Router". Proceedings of the 13th USENIX Security Symposium.
+<a id="3">[3]</a> DDingledine, R., Mathewson, N., & Syverson, P. (2004). Tor: The Second-Generation Onion Router. Proceedings of the 13th USENIX Security Symposium.
 
-<a id="4">[4]</a> EBSCO Information Services. “Darknet | EBSCO.” EBSCO Information Services, Inc. | Www.ebsco.com, 2024, www.ebsco.com/research-starters/computer-science/darknet. Accessed 17 July 2025.
+<a id="4">[4]</a> EBSCO Information Services. (2024). Darknet | EBSCO. https://www.ebsco.com/research-starters/computer-science/darknet (Accessed: July 18, 2025)
 
-<a id="5">[5]</a> Greenberg, A. (2013). "End of the Silk Road: FBI Says It's Busted the Web's Biggest Anonymous Drug Black Market". Forbes, 2. Oktober 2013.
+<a id="5">[5]</a> Greenberg, A. (2013, October 2). End of the Silk Road: FBI says it's busted the web's biggest anonymous drug black market. Forbes.
 
-<a id="6">[6]</a> Owen, G., & Savage, N. (2015). "The Tor Dark Net". Global Commission on Internet Governance Paper Series, Nr. 20.
+<a id="6">[6]</a> Owen, G., & Savage, N. (2015). The Tor Dark Net. Global Commission on Internet Governance Paper Series, No. 20.
 
-<a id="7">[7]</a> Moore, D., & Rid, T. (2016). "Cryptopolitik and the Darknet". Survival, 58(1), S. 7–38.
+<a id="7">[7]</a> Moore, D., & Rid, T. (2016). Cryptopolitik and the Darknet. *Survival, 58*(1), 7–38.
 
-<a id="8">[8]</a> Europol (2017). "Massive Blow to Criminal Dark Web Activities After Globally Coordinated Operation". Pressemitteilung, 20. Juli 2017.
+<a id="8">[8]</a> Europol. (2017, July 20). *Massive blow to criminal Dark Web activities after globally coordinated operation*.
 
-<a id="9">[9]</a> United Nations Office on Drugs and Crime (2020). "Darknet Cybercrime Threats to Southeast Asia". Regional Office for Southeast Asia and the Pacific.
+<a id="9">[9]</a> United Nations Office on Drugs and Crime. (2020). *Darknet cybercrime threats to Southeast Asia*. Regional Office for Southeast Asia and the Pacific.
 
-<a id="10">[10]</a> Jardine, E. (2018). "Privacy, Censorship, Data Breaches and Internet Freedom: The Drivers of Support and Opposition to Dark Web Technologies". New Media & Society, 20(8), S. 2824–2843.
+<a id="10">[10]</a> Jardine, E. (2018). Privacy, censorship, data breaches and Internet freedom: The drivers of support and opposition to Dark Web technologies. *New Media & Society, 20*(8), 2824–2843.
 
-<a id="11">[11]</a> Barratt, M. J., & Aldridge, J. (2016). "Everything You Always Wanted to Know About Drug Cryptomarkets* (*But Were Afraid to Ask)". International Journal of Drug Policy, 35, S. 1–6.
+<a id="11">[11]</a> Barratt, M. J., & Aldridge, J. (2016). Everything you always wanted to know about drug cryptomarkets (*but were afraid to ask*). *International Journal of Drug Policy, 35*, 1–6.
 
-<a id="12">[12]</a> Mörch, C. M., Skafida, A., & Härting, N. (2019). "Das Darknet: Strafverfolgungsbehörden auf dem Weg durch die Finsternis". Computer und Recht, 35(10), S. 638–645.
+<a id="12">[12]</a> Mörch, C. M., Skafida, A., & Härting, N. (2019). Das Darknet: Strafverfolgungsbehörden auf dem Weg durch die Finsternis. *Computer und Recht, 35*(10), 638–645.
 
-<a id="13">[13]</a> Seobility. “Was Ist Das Dark Web? - Seobility Wiki.” Seobility, 18 Mar. 2025, www.seobility.net/de/wiki/Dark_Web. Accessed 17 July 2025.
+<a id="13">[13]</a> Seobility. (2025, March 18). *Was ist das Dark Web?* https://www.seobility.net/de/wiki/Dark_Web (Accessed: July 18, 2025)
 
-<a id="14">[14]</a> Schönbrunn TASC GmbH. “The Dark Web Explained: How It Works and Why It Is so Dangerous. - Schönbrunn TASC GmbH.” Schoenbrunn-Tasc.de, 2025, www.schoenbrunn-tasc.de/en/blog-news/the-dark-web-explained-how-it-works-and-why-it-is-so-dangerous. Accessed 17 July 2025.
+<a id="14">[14]</a> Schönbrunn TASC GmbH. (2025). *The dark web explained: How it works and why it is so dangerous*. https://www.schoenbrunn-tasc.de/en/blog-news/the-dark-web-explained-how-it-works-and-why-it-is-so-dangerous (Accessed: July 18, 2025)
 
-<a id="15">[15]</a> SEO-Küche. “Das Darknet Einfach Und Verständlich Erklärt - SEO-Küche.” SEO-Küche - Online-Marketing-Agentur, SEO-Küche Online Marketing Agentur, 2023, www.seo-kueche.de/lexikon/darknet/. Accessed 17 July 2025.
+<a id="15">[15]</a> SEO-Küche. (2023). *Das Darknet einfach und verständlich erklärt*. https://www.seo-kueche.de/lexikon/darknet/ (Accessed: July 18, 2025)
 
-<a id="16">[16]</a> Yannikos, York , and Prof. Dr. Martin Steinebach. “Darknet | Bidt.” Bidt DE, 15 Oct. 2024, www.bidt.digital/glossar/darknet/. Accessed 17 July 2025.
+<a id="16">[16]</a> Yannikos, Y., & Steinebach, M. (2024, October 15). *Darknet*. https://www.bidt.digital/glossar/darknet/ (Accessed: July 18, 2025)
 
-<a id="17">[17]</a> Myra Security GmbH. “Darknet: Definition, Funktionsweise Und Wer Es Nutzt | Myra.” Myrasecurity.com, 2025, www.myrasecurity.com/de/knowledge-hub/darknet/. Accessed 17 July 2025.
+<a id="17">[17]</a> Myra Security GmbH. (2025). *Darknet: Definition, Funktionsweise und wer es nutzt*. https://www.myrasecurity.com/de/knowledge-hub/darknet/ (Accessed: July 18, 2025)
 
-<a id="18">[18]</a> NPR Staff . (2014, May 25). Going Dark: The Internet Behind The Internet. NPR.org. https://www.npr.org/sections/alltechconsidered/2014/05/25/315821415/going-dark-the-internet-behind-the-internet
+<a id="18">[18]</a> NPR Staff. (2014, May 25). *Going dark: The internet behind the internet*. https://www.npr.org/sections/alltechconsidered/2014/05/25/315821415/going-dark-the-internet-behind-the-internet (Accessed: July 18, 2025)
 
-<a id="19">[19]</a> Katie Hafner, Matthew Lyon: ARPA KADABRA oder Die Geschichte des Internet. dpunkt-Verlag, Heidelberg 2000, ISBN 3-932588-59-2.
+<a id="19">[19]</a> Hafner, K., & Lyon, M. (2000). *ARPA KADABRA oder die Geschichte des Internet*. Heidelberg: dpunkt-Verlag.
 
-<a id="20">[20]</a> Darknet.se - About darknet. (2010, August 12). Web.archive.org. https://web.archive.org/web/20100812103650/http://www.darknet.se/about-darknet
+<a id="20">[20]</a> Darknet.se. (2010, August 12). *About darknet*. https://web.archive.org/web/20100812103650/http://www.darknet.se/about-darknet (Accessed: July 18, 2025)
 
-<a id="21">[21]</a> Vom ARPANET zum Internet. (2025). Webtechnologien.com. https://www.webtechnologien.com/wissen/das-internet/vom-arpanet-zum-internet/
+<a id="21">[21]</a> Webtechnologien.com. (2025). *Vom ARPANET zum Internet*. https://www.webtechnologien.com/wissen/das-internet/vom-arpanet-zum-internet/ (Accessed: July 18, 2025)
 
-<a id="22">[22]</a> LebenUSA, B. von. (2016). Was ist ein Bulletin Board System (BBS) in der Hacker-Szene? Digitalwelt. https://www.digitalwelt.org/hackerland/inhalt/was-ist-ein-bulletin-board-system
+<a id="22">[22]</a> Digitalwelt. (2016). *Was ist ein Bulletin Board System (BBS) in der Hacker-Szene?* https://www.digitalwelt.org/hackerland/inhalt/was-ist-ein-bulletin-board-system (Accessed: July 18, 2025)
 
-<a id="23">[23]</a> Sunny, & Tarnkappe. (2025, June 14). Cyberkriminalität im Wandel: Aufstieg, Fall und Zukunft der digitalen Unterwelt. TARNKAPPE.INFO; TARNKAPPE. https://tarnkappe.info/artikel/hintergrundberichte/cyberkriminalitaet-im-wandel-aufstieg-fall-und-zukunft-der-digitalen-unterwelt-316363.html
+<a id="23">[23]</a> Sunny & Tarnkappe. (2025, June 14). Cyberkriminalität im Wandel: Aufstieg, Fall und Zukunft der digitalen Unterwelt. *Tarnkappe.info*. https://tarnkappe.info/artikel/hintergrundberichte/cyberkriminalitaet-im-wandel-aufstieg-fall-und-zukunft-der-digitalen-unterwelt-316363.html (Accessed: July 18, 2025)
 
-<a id="24">[24]</a> FidoPedia. (2019). Geschichte nach Jahreszahl gegliedert – FidoPedia. Fido.de. https://fidopedia.fido.de/index.php/Geschichte_nach_Jahreszahl_gegliedert
+<a id="24">[24]</a> FidoPedia. (2019). *Geschichte nach Jahreszahl gegliedert*. https://fidopedia.fido.de/index.php/Geschichte_nach_Jahreszahl_gegliedert (Accessed: July 18, 2025)
 
-<a id="25">[25]</a> Bush, Randy (1992). "FidoNet: Technology, Use, Tools, and History". Fidonet. Archived from the original on 2003-12-03. Retrieved 2022-01-22.
+<a id="25">[25]</a> Bush, R. (1992). FidoNet: Technology, use, tools, and history. *Fidonet*. https://web.archive.org/web/20031203053806/http://www.fidonet.org (Accessed: July 18, 2025)
 
-<a id="26">[26]</a> Subbotin, A. (2025, April 22). Was ist das Darknet?: Das Wichtigste über die “Verbotene Seite des Internets.” Bytesnipers.com; ByteSnipers GmbH. https://www.bytesnipers.com/cybersecurity-blog/was-ist-das-darknet
+<a id="26">[26]</a> Subbotin, A. (2025, April 22). Was ist das Darknet? Das Wichtigste über die „verbotene Seite des Internets“. *Bytesnipers*. https://www.bytesnipers.com/cybersecurity-blog/was-ist-das-darknet (Accessed: July 18, 2025)
 
-<a id="27">[27]</a> klicksafe. (2023, July 4). Was ist das Darknet oder Dark Web? Klicksafe.de. https://www.klicksafe.de/darknet
+<a id="27">[27]</a> klicksafe. (2023, July 4). *Was ist das Darknet oder Dark Web?* https://www.klicksafe.de/darknet (Accessed: July 18, 2025)
 
-<a id="28">[28]</a> Autoren der Wikimedia-Projekte. (2014, November 22). virtueller Handelsplatz im Darknet. Wikipedia.org; Wikimedia Foundation, Inc. https://de.wikipedia.org/wiki/Darknet-Markt
+<a id="28">[28]</a> Wikimedia Foundation. (2014, November 22). *Darknet-Markt*. https://de.wikipedia.org/wiki/Darknet-Markt (Accessed: July 18, 2025)
 
-<a id="29">[29]</a> Mary. (2013, October 5). Silk Road and the History (and Future) of Darknets. Meta-Activism. https://web.archive.org/web/20141129075106/http://www.meta-activism.org/2013/10/silk-road-and-the-history-and-future-of-darknets/
+<a id="29">[29]</a> Mary. (2013, October 5). *Silk Road and the history (and future) of darknets*. Meta-Activism. https://web.archive.org/web/20141129075106/http://www.meta-activism.org/2013/10/silk-road-and-the-history-and-future-of-darknets/ (Accessed: July 18, 2025)
 
-<a id="30">[30]</a> Bongen, R., & Moßbrucker, D. (2024, September 18). Anonymisierungsdienst Tor angreifbar: Snowden-Effekt verpufft. Norddeutscher Rundfunk. https://www.ndr.de/fernsehen/sendungen/panorama/aktuell/Anonymisierungsdienst-Tor-angreifbar-Snowden-Effekt-verpufft,tor192.html
+<a id="30">[30]</a> Bongen, R., & Moßbrucker, D. (2024, September 18). Anonymisierungsdienst Tor angreifbar: Snowden-Effekt verpufft. *Norddeutscher Rundfunk*. https://www.ndr.de/fernsehen/sendungen/panorama/aktuell/Anonymisierungsdienst-Tor-angreifbar-Snowden-Effekt-verpufft,tor192.html (Accessed: July 18, 2025)
 
-<a id="31">[31]</a> Platzer , F., Landwirth , R., Wittmer , S., & Yannikos, Y. (2020). Was ist das Darknet? https://www.hs-anhalt.de/fileadmin/Dateien/IT-Service-Center/Informationssicherheit/broschueren/Was_ist_das_Darknet_01.pdf
+<a id="31">[31]</a> Platzer, F., Landwirth, R., Wittmer, S., & Yannikos, Y. (2020). *Was ist das Darknet?* Hochschule Anhalt. https://www.hs-anhalt.de/fileadmin/Dateien/IT-Service-Center/Informationssicherheit/broschueren/Was_ist_das_Darknet_01.pdf (Accessed: July 18, 2025)
 
-<a id="32">[32]</a> Autoren der Wikimedia-Projekte. (2004, November 22). Netzwerk zur Anonymisierung von Verbindungsdaten. Wikipedia.org; Wikimedia Foundation, Inc. https://de.wikipedia.org/wiki/Tor_(Netzwerk)
+<a id="32">[32]</a> Wikimedia Foundation. (2004, November 22). *Tor (Netzwerk)*. https://de.wikipedia.org/wiki/Tor_(Netzwerk) (Accessed: July 18, 2025)
 
-<a id="33">[33]</a> Autoren der Wikimedia-Projekte. (2005, January 24). anonymisierendes Overlay-Netzwerk. Wikipedia.org; Wikimedia Foundation, Inc. https://de.wikipedia.org/wiki/I2P
+<a id="33">[33]</a> Wikimedia Foundation. (2005, January 24). *I2P*. https://de.wikipedia.org/wiki/I2P (Accessed: July 18, 2025)
 
-<a id="34">[34]</a> Clarke, I., Sandberg, O., Wiley, B., & Hong, T. W. (2002). Freenet: A distributed anonymous information storage and retrieval system. Lecture Notes in Computer Science, 2009, 46–66. https://doi.org/10.1007/3-540-44702-4_4
+<a id="34">[34]</a> Clarke, I., Sandberg, O., Wiley, B., & Hong, T. W. (2002). Freenet: A distributed anonymous information storage and retrieval system. *Lecture Notes in Computer Science, 2009*, 46–66. https://doi.org/10.1007/3-540-44702-4_4
 
-<a id="35">[35]</a> Maxwell, A. (2016, March 1). Play: A P2P Distributed Torrent Site That’s Impossible to Shut Down * TorrentFreak. Torrentfreak.com. https://torrentfreak.com/play-p2p-impossible-shutdown-160301/
+<a id="35">[35]</a> Maxwell, A. (2016, March 1). Play: A P2P distributed torrent site that’s impossible to shut down. *TorrentFreak*. https://torrentfreak.com/play-p2p-impossible-shutdown-160301/ (Accessed: July 18, 2025)
 
-<a id="36">[36]</a> Wikipedia Contributors. (2025, April 23). ZeroNet. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/ZeroNet#cite_note-:0-3
+<a id="36">[36]</a> Wikipedia Contributors. (2025, April 23). *ZeroNet*. https://en.wikipedia.org/wiki/ZeroNet#cite_note-:0-3 (Accessed: July 18, 2025)
 
