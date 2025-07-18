@@ -53,6 +53,8 @@ Zur Begriffsklärung ist es wichtig, zwischen folgenden verwandten Konzepten zu 
 
 Diese Begriffe werden häufig fälschlicherweise synonym verwendet. In der Fachliteratur und unter Experten bezeichnet "Darknet" jedoch spezifisch die technische Infrastruktur, während "Dark Web" sich auf die im Darknet gehosteten Webinhalte bezieht.
 
+![Das Internet](https://raw.githubusercontent.com/kokr1011/wiki-darknet/refs/heads/master/Surface%20Web.png "Die Teile des Internets")
+
 ## Geschichte und Entwicklung
 
 ### Frühe Anfänge
